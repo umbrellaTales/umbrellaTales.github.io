@@ -2594,6 +2594,27 @@ a {
     left: -1rem;
   }
 }
+.cid-sINC7lbaLd {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sINC7lbaLd .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-sINC7lbaLd form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-sINC7lbaLd form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-sINC7lbaLd form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
 .cid-sIHQYn0Orw {
   background-image: url("../../../assets/images/background2.jpg");
 }
