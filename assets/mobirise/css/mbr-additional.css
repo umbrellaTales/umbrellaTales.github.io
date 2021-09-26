@@ -1073,11 +1073,11 @@ a {
   object-fit: cover;
 }
 .cid-sIjzIRP5Uf .card-title {
-  text-align: right;
+  text-align: left;
 }
 .cid-sIjzIRP5Uf .mbr-text,
 .cid-sIjzIRP5Uf .mbr-section-btn {
-  text-align: right;
+  text-align: center;
 }
 .cid-sIk15RK3Dt {
   padding-top: 6rem;
@@ -1201,7 +1201,7 @@ a {
 }
 .cid-sINtWttwP9 {
   padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-bottom: 7rem;
   background-color: #ffffff;
 }
 .cid-sINtWttwP9 .mbr-text,
